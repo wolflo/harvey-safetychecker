@@ -1,0 +1,8 @@
+{
+  "time-limit-secs": 604800,
+  "random-seed": 0,
+  "code": "00",
+  "emit-mythx-report": true,
+  "assertion-checking-mode": 1,
+  "info-server-port": 8080
+}
